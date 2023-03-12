@@ -28,10 +28,10 @@ The heat map at the top of the chart breaks down the heat map from the second vi
 The data shown in the visualizations shows that the overwhelmingly most common use for Citibike is as a means for getting to work.  The evidence to show this is that the majority of the rides are under twnety minutes, which implies that this it is used more commonly for getting somewhere rather than for exercise or sightseeing.  The three most hours for usage are 8am, 5pm, and 6pm, which are common times for commuting to and from work.  The heat map supports this idea as well by showing which that the most common times for usage occur on weekdays with a significant decrease on weekends.  Another piece of evidence is shown below, in which we see that the most common starting and ending points are essentially the same, implying that people are using bikesharing for round trips across one or two stops.
 
 #### Starting Points
-![Map of Starting Points](http://url/to/img.png](https://github.com/machudpicchu/bikesharing/blob/main/Starting%20Points.png)
+![Map of Starting Points](https://github.com/machudpicchu/bikesharing/blob/main/Starting%20Points.png)
 
 #### Ending Points
-![Map of Ending Points](http://url/to/img.png](https://github.com/machudpicchu/bikesharing/blob/main/Ending%20Points.png)
+![Map of Ending Points](https://github.com/machudpicchu/bikesharing/blob/main/Ending%20Points.png)
 
 The data also shows that the bikesharing skews heavily toward usage by those identifying as males, which would be a consideration both for how this company might fit with Des Moines as well as inform how to market the service.
 
