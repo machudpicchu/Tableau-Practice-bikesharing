@@ -25,7 +25,15 @@ The bar chart at the top compares the hours at which customers check out a bike,
 The heat map at the top of the chart breaks down the heat map from the second visualization and shows the variance among those identifying as males and females.  The heat map at the bottom of this visualization takes the same information and compares it the users between those who are customers and those who are subscribers and shows their usage across days of the week and time of day.
 
 ## Summary
-The data shown in the visualizations shows that the overwhelmingly most common use for Citibike is as a means for getting to work.  The evidence to show this is that the majority of the rides are under twnety minutes, which implies that this it is used more commonly for getting somewhere rather than for exercise or sightseeing.  The three most hours for usage are 8 a.m. 
+The data shown in the visualizations shows that the overwhelmingly most common use for Citibike is as a means for getting to work.  The evidence to show this is that the majority of the rides are under twnety minutes, which implies that this it is used more commonly for getting somewhere rather than for exercise or sightseeing.  The three most hours for usage are 8am, 5pm, and 6pm, which are common times for commuting to and from work.  The heat map supports this idea as well by showing which that the most common times for usage occur on weekdays with a significant decrease on weekends.  Another piece of evidence is shown below, in which we see that the most common starting and ending points are essentially the same, implying that people are using bikesharing for round trips across one or two stops.
+
+#### Starting Points
+![Map of Starting Points](http://url/to/img.png](https://github.com/machudpicchu/bikesharing/blob/main/Starting%20Points.png)
+
+#### Ending Points
+![Map of Ending Points](http://url/to/img.png](https://github.com/machudpicchu/bikesharing/blob/main/Ending%20Points.png)
+
+The data also shows that the bikesharing skews heavily toward usage by those identifying as males, which would be a consideration both for how this company might fit with Des Moines as well as inform how to market the service.
 
 ### Recommendations
 Moving forward, future visualizations should focus on data regarding Des Moines, Iowa in order to compare how the usage of Citibike in New York City would be a useful and profitable addition to commerce in Des Moines.
