@@ -6,7 +6,7 @@ This project is based on examining the data regarding usage of bikes for the Cit
 ## Results
 Using Tableau, a number of charts and graphs were created to display the most important factors in considering Citibike as a business, which are who uses the bikesharing service and why they use it.  
 
-[https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users/CitibikeUsers1?publish=yes](LINK GOES HERE)
+[Link to dashboard](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users/CitibikeUsers1?publish=yes))
 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
