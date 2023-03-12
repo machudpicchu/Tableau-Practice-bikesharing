@@ -11,6 +11,8 @@ Using Tableau, a number of charts and graphs were created to display the most im
 [Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Peak_Times/CitibikePeakTimes?publish=yes)
 
 [Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users_by_GT/CitibikeUsersbyGenderandType?publish=yes)
+
+
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
