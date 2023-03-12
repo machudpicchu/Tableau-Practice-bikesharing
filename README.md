@@ -7,11 +7,11 @@ This project is based on examining the data regarding usage of bikes for the Cit
 Using Tableau, a number of charts and graphs were created to display the most important factors in considering Citibike as a business, which are who uses the bikesharing service and why they use it.  
 
 [Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users/CitibikeUsers1?publish=yes)
-
+![Citibike Users](https://github.com/machudpicchu/bikesharing/blob/main/Story1.png)
 [Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Peak_Times/CitibikePeakTimes?publish=yes)
-
+![Citibike Peak Times](https://github.com/machudpicchu/bikesharing/blob/main/Story2.png)
 [Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users_by_GT/CitibikeUsersbyGenderandType?publish=yes)
-
+![Citibike Users by Gender and Type](https://github.com/machudpicchu/bikesharing/blob/main/Story3.png)
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
