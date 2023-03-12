@@ -6,9 +6,11 @@ This project is based on examining the data regarding usage of bikes for the Cit
 ## Results
 Using Tableau, a number of charts and graphs were created to display the most important factors in considering Citibike as a business, which are who uses the bikesharing service and why they use it.  
 
-[Link to dashboard](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users/CitibikeUsers1?publish=yes))
+[Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users/CitibikeUsers1?publish=yes)
 
+[Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Peak_Times/CitibikePeakTimes?publish=yes)
 
+[Click here to interact with the data via a dashboard.](https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users_by_GT/CitibikeUsersbyGenderandType?publish=yes)
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
@@ -33,6 +35,3 @@ Since the Citibike data makes it clear the the majoryity of their usage is for s
 
 #### Recommendation 2: Tourist Data
 A second visualization would be another map of Des Moines that would consider major attractions and popular restaurants and points of interest within Des Moines to consider how bike routes within the city would be a viable investment and meet a need within the city.
-
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](LINK GOES HERE "link to dashboard")
