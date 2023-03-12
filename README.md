@@ -4,7 +4,10 @@
 This project is based on examining the data regarding usage of bikes for the Citibike company in order to possibly attract investors to create a similar ride-sharing program in Des Moines, Iowa.  This analysis uses Tableau to visualize the data for Citibike usage for New York City from August, 2019 as a reference point for how Citibike might be profitable in Des Moines.
 
 ## Results
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Using Tableau, a number of charts and graphs were created to display the most important factors in considering Citibike as a business, which are who uses the bikesharing service and why they use it.  
+
+[https://public.tableau.com/app/profile/matthew.peach4152/viz/Citibike_Users/CitibikeUsers1?publish=yes](LINK GOES HERE)
+
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
